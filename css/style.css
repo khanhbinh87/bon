@@ -538,7 +538,7 @@ a.more {
     padding-left: 20px;
 }
 .footer-title ul {
-    margin-bottom: 0px;
+    margin-bottom: 0px!important;
 }
 .custom-list li:before {
     content: "";
